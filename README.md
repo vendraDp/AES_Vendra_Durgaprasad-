@@ -5,9 +5,11 @@
 Data encryption has become an indispensable requirement in today’s apps, transactions, and
 webpages and the applications are endless. Along with encrypting the sensitive data, authenticity
 also needs to be verified. Many remote devices require an encryption scheme to transmit the
-information. We implement an authenticated encryption scheme that resists replay attacks.
+information. I implemented an Advanced Encryption Standard (AES) encryption scheme that resists replay attacks.
+This repository contains the source codes and a brief description of Advanced Encrytion Standard using Verilog.
 
-## Cryptographic techniques
+
+## Background: Cryptographic techniques 
 ### Symmetric-key cryptography
 ▢ Both the sender and receiver share a single key.
 ▢ The sender uses this key to encrypt the plaintext.
@@ -20,4 +22,3 @@ the plaintext. Advanced Encryption Standard (AES) is the most celebrated example
 ▢ Public keys may be freely distributed, while private keys remain secret.
 ▢ The public key is used for encryption and the private key for decryption. RSA is a
 well-known example of this kind.
-This repository contains the source codes and a brief description of Advanced Encrytion Standard using Verilog.
