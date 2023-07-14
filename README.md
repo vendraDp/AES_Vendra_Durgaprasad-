@@ -15,5 +15,9 @@ information. We implement an authenticated encryption scheme that resists replay
 the plaintext. Advanced Encryption Standard (AES) is the most celebrated example.
 ![Screenshot from 2023-07-14 16-53-53](https://github.com/vendraDp/AES_Vendra_Durgaprasad-/assets/107578770/599d202f-4d52-44ff-9a80-fb58f4da752c)
 
-
+### Public-key cryptography
+▢ In Public-Key Cryptography two related keys (public and private key) are used.
+▢ Public keys may be freely distributed, while private keys remain secret.
+▢ The public key is used for encryption and the private key for decryption. RSA is a
+well-known example of this kind.
 This repository contains the source codes and a brief description of Advanced Encrytion Standard using Verilog.
