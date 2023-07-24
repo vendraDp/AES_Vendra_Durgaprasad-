@@ -27,17 +27,25 @@ well-known example of this kind.
 
 ## STA Report
 Summary of setup slack and hold slack for the top-level module
+
 ![image](https://github.com/vendraDp/AES_Vendra_Durgaprasad-/assets/107578770/857a4f35-68e0-4192-9a39-addedaeb419d)
+
+
 Time period = 10ns, Setup slack = 3.972ns , Hold slack = 0.397ns 
 
 
 ## Layout
+
 Layout of top module 
+
+### cell view
+
 ![image](https://github.com/vendraDp/AES_Vendra_Durgaprasad-/assets/107578770/9b794c14-7df3-4b7f-a1e4-921f91220b04)
-cell view
+
+### transistor-level view
 
 ![image](https://github.com/vendraDp/AES_Vendra_Durgaprasad-/assets/107578770/c4ea8e39-ac82-44cd-b24f-1f4ccf09a8ad)
-transistor-level view
+
 
 
 
